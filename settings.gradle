@@ -1,0 +1,3 @@
+rootProject.name='jitpackX'
+include ':app'
+include ':pitch'
